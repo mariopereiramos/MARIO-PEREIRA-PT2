@@ -195,11 +195,11 @@ La demostración del funcionamiento de ownCloud consiste en realizar pruebas bá
 Creación de usuarios
 La creación de usuarios consiste en crear varios usuarios con diferentes roles y permisos. En este caso, se deben crear al menos 3 usuarios con los siguientes roles:
 
-    Administrador: Un usuario con permisos totales para gestionar la plataforma y todos los usuarios.
+Administrador: Un usuario con permisos totales para gestionar la plataforma y todos los usuarios.
 
-    Editor: Un usuario con permisos para editar y gestionar contenidos, pero no para gestionar la plataforma.
+Editor: Un usuario con permisos para editar y gestionar contenidos, pero no para gestionar la plataforma.
 
-    Visualizador: Un usuario con permisos solo para visualizar contenidos, pero no para editar o gestionar.
+Visualizador: Un usuario con permisos solo para visualizar contenidos, pero no para editar o gestionar.
 
 ![37](37.png)
 
@@ -212,11 +212,11 @@ La creación de usuarios consiste en crear varios usuarios con diferentes roles 
 Asignación de roles y permisos
 La asignación de roles y permisos consiste en configurar permisos específicos para cada rol. Esto significa que cada rol tendrá permisos diferentes para acceder a los archivos y carpetas de ownCloud. Por ejemplo:
 
-    El administrador tendrá permisos para gestionar todos los archivos y carpetas.
+ El administrador tendrá permisos para gestionar todos los archivos y carpetas.
 
-    El editor tendrá permisos para editar y gestionar archivos y carpetas específicas.
+ El editor tendrá permisos para editar y gestionar archivos y carpetas específicas.
 
-    El visualizador tendrá permisos solo para visualizar archivos y carpetas específicas.
+ El visualizador tendrá permisos solo para visualizar archivos y carpetas específicas.
 
 ![41](41.png)
 
