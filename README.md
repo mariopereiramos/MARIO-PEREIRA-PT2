@@ -142,22 +142,22 @@
 
 ahora Acceder a tu navegador
 
-    escribe esta dirección http://localhost en la barra de direcciones.
-    Si todo ha ido bien y has seguido los pasos anteriores, deberías ver el instalador de la aplicación web que descargaste.
+escribe esta dirección http://localhost en la barra de direcciones.
+Si todo ha ido bien y has seguido los pasos anteriores, deberías ver el instalador de la aplicación web que descargaste.
 
 Configurar la aplicación web
     ahora tienes que registrarte
     poniendo un usuario y una contraseña
 
-    El instalador te pedirá que crees un usuario administrador (admin) y que proporciones información sobre la base de datos.
-    Debes ingresar la siguiente información:
+El instalador te pedirá que crees un usuario administrador (admin) y que proporciones información sobre la base de datos.
+Debes ingresar la siguiente información:
 
-    que son estos
+que son estos
 
-    Usuario de la base de datos: usuario
-    Contraseña de la base de datos: password
-    Nombre de la base de datos: bbdd
-    Dominio: localhost
+Usuario de la base de datos: usuario
+Contraseña de la base de datos: password
+Nombre de la base de datos: bbdd
+Dominio: localhost
 
 ![28](28.png)
 
