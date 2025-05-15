@@ -2,23 +2,23 @@
 
 1. creamos la maquina virtual para pone el owncloud
 
-![Mi Foto](1.png)
+![1](1.png)
 
 2. Actualizar el sistema: Se actualizan las listas de paquetes disponibles y se actualizan todos los paquetes del sistema a las versiones más recientes.
 
-![Mi Foto](2.png)
+![2](2.png)
 
 3. Instalar requisitos previos de PPA: Se instalan las herramientas necesarias para trabajar con repositorios PPA (Personal Package Archives).
 
-<img src="/fotos/primera parte/3.png"alt="3"> ![Mi Foto](3.png)
+<img src="/fotos/primera parte/3.png"alt="3"> ![3](3.png)
 
 4. Agregar repositorio PPA de PHP: Se agrega un repositorio que contiene las versiones más recientes de PHP, incluida la versión 7.4.
 
-<img src="/fotos/primera parte/4.png"alt="4"> ![Mi Foto](4.png)
+<img src="/fotos/primera parte/4.png"alt="4"> ![4](4.png)
 
 5. Instalar PHP 7.4: Se instala el paquete básico de PHP 7.4
 
-<img src="/fotos/primera parte/5.png"alt="5"> ![Mi Foto](5.png)
+<img src="/fotos/primera parte/5.png"alt="5"> ![5](5.png)
 
 6. Instalar librerías adicionales de PHP:Se instalan varias librerías adicionales de PHP 7.4 que pueden ser necesarias para diferentes aplicaciones, como:
 
@@ -26,59 +26,59 @@
     Servidor de FastCGI de PHP 7.4
     Librerías comunes de PHP 7.4
 
-<img src="/fotos/primera parte/6.png"alt="6"> ![Mi Foto](6.png)
+<img src="/fotos/primera parte/6.png"alt="6"> ![6](6.png)
 
 7. Seleccionar versión de PHP: Se selecciona la versión de PHP que se quiere utilizar como predeterminada.
 
-<img src="/fotos/primera parte/7.png"alt="7"> ![Mi Foto](1.png)
+<img src="/fotos/primera parte/7.png"alt="7"> ![7](7.png)
 
 8. Activar módulos de Apache2: Se activan los módulos de Apache2 necesarios para PHP 7.4, como el módulo de FastCGI y la configuración de PHP-FPM.
 
-<img src="/fotos/primera parte/8.png"alt="8">![Mi Foto](1.png)
+<img src="/fotos/primera parte/8.png"alt="8">![8](8.png)
 
 9. Reiniciar Apache2: Se reinicia el servidor Apache2 para aplicar los cambios y asegurarse de que todo esté funcionando correctamente.
 
-<img src="/fotos/primera parte/9.png"alt="9">![Mi Foto](1.png)
+<img src="/fotos/primera parte/9.png"alt="9">![9](9.png)
 
 
-<img src="/fotos/primera parte/10.png"alt="10">![Mi Foto](1.png)
+<img src="/fotos/primera parte/10.png"alt="10">![10](10.png)
 
 
 # parte 2: instalacion de apache 2.0
 
 11. Actualizar lista de paquetes: Se actualiza la lista de paquetes disponibles en el sistema para asegurarse de que se tienen las versiones más recientes.
 
-<img src="/fotos/segunda parte/11.png"alt="11">![Mi Foto](1.png)
+<img src="/fotos/segunda parte/11.png"alt="11">![11](11.png)
 
 
 
 12. Actualizar paquetes: Se actualizan todos los paquetes del sistema a las versiones más recientes para asegurarse de que se tienen las últimas mejoras y correcciones de seguridad.
 
-<img src="/fotos/segunda parte/12.png"alt="12">![Mi Foto](1.png)
+<img src="/fotos/segunda parte/12.png"alt="12">![12](12.png)
 
 
 
 13. Instalar servidor web Apache2: Se instala un servidor web que permite servir contenido web a los usuarios.
 
-<img src="/fotos/segunda parte/13.png"alt="13">![Mi Foto](1.png)
+<img src="/fotos/segunda parte/13.png"alt="13">![13](13.png)
 
 
 
 14. Instalar servidor de bases de datos MySQL: Se instala un servidor de bases de datos que permite almacenar y gestionar datos de manera eficiente.
 
-<img src="/fotos/segunda parte/14.png"alt="14">![Mi Foto](1.png)
+<img src="/fotos/segunda parte/14.png"alt="14">![14](14.png)
 
 
 
 15. Instalar PHP y módulo Apache2: Se instala el lenguaje de programación PHP y se configura para trabajar con el servidor web Apache2.
 
-<img src="/fotos/segunda parte/15.png"alt="15">![Mi Foto](1.png)
+<img src="/fotos/segunda parte/15.png"alt="15">![15](15.png)
 
 
 
 16. Instalar librerías adicionales de PHP: Se instalan varias librerías adicionales de PHP que pueden ser necesarias para diferentes aplicaciones, como procesamiento de imágenes, conexiones a bases de datos, etc.
 
-![Mi Foto](15.png)
+![15](15.png)
 
 
 
