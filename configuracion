@@ -1,0 +1,85 @@
+ahora Acceder a tu navegador
+
+    escribe esta dirección http://localhost en la barra de direcciones.
+    Si todo ha ido bien y has seguido los pasos anteriores, deberías ver el instalador de la aplicación web que descargaste.
+
+Configurar la aplicación web
+    ahora tienes que registrarte
+    poniendo un usuario y una contraseña
+
+    El instalador te pedirá que crees un usuario administrador (admin) y que proporciones información sobre la base de datos.
+    Debes ingresar la siguiente información:
+
+    que son estos
+
+    Usuario de la base de datos: usuario
+    Contraseña de la base de datos: password
+    Nombre de la base de datos: bbdd
+    Dominio: localhost
+
+<img src="/fotos/tercera parte/28.png"alt="28">
+
+una vez echo ya podras entrar a owncloud pero pedida que inicies sesion
+
+<img src="/fotos/tercera parte/26.png"alt="26">
+
+<img src="/fotos/tercera parte/29.png"alt="29">
+
+# parte 3 configuracion
+
+28. Demostración del funcionamiento
+La demostración del funcionamiento de ownCloud consiste en realizar pruebas básicas para verificar que la plataforma esté funcionando correctamente. Esto incluye:
+
+    Subir archivos: Subir archivos a ownCloud para comprobar que se pueden almacenar y acceder a ellos correctamente.
+    
+    Crear carpetas: Crear carpetas para organizar los archivos y comprobar que se pueden crear y acceder a ellas correctamente.
+    
+    Compartir contenidos: Compartir archivos o carpetas con otros usuarios para comprobar que se pueden compartir y acceder a ellos correctamente.
+
+<img src="/fotos/tercera parte/30.png"alt="30">
+
+<img src="/fotos/tercera parte/31.png"alt="31">
+
+<img src="/fotos/tercera parte/32.png"alt="32">
+
+<img src="/fotos/tercera parte/33.png"alt="33">
+
+<img src="/fotos/tercera parte/34.png"alt="34">
+
+<img src="/fotos/tercera parte/35.png"alt="35">
+
+<img src="/fotos/tercera parte/36.png"alt="36">
+
+Creación de usuarios
+La creación de usuarios consiste en crear varios usuarios con diferentes roles y permisos. En este caso, se deben crear al menos 3 usuarios con los siguientes roles:
+
+    Administrador: Un usuario con permisos totales para gestionar la plataforma y todos los usuarios.
+
+    Editor: Un usuario con permisos para editar y gestionar contenidos, pero no para gestionar la plataforma.
+
+    Visualizador: Un usuario con permisos solo para visualizar contenidos, pero no para editar o gestionar.
+
+<img src="/fotos/tercera parte/37.png"alt="37">
+
+<img src="/fotos/tercera parte/38.png"alt="38">
+
+<img src="/fotos/tercera parte/39.png"alt="39">
+
+<img src="/fotos/tercera parte/40.png"alt="40">
+
+Asignación de roles y permisos
+La asignación de roles y permisos consiste en configurar permisos específicos para cada rol. Esto significa que cada rol tendrá permisos diferentes para acceder a los archivos y carpetas de ownCloud. Por ejemplo:
+
+    El administrador tendrá permisos para gestionar todos los archivos y carpetas.
+
+    El editor tendrá permisos para editar y gestionar archivos y carpetas específicas.
+
+    El visualizador tendrá permisos solo para visualizar archivos y carpetas específicas.
+
+<img src="/fotos/tercera parte/41.png"alt="41">
+
+<img src="/fotos/tercera parte/42.png"alt="42">
+
+<img src="/fotos/tercera parte/43.png"alt="43">
+
+Esperamos que este manual te haya sido de ayuda para configurar y utilizar ownCloud de manera efectiva. ¡Buena suerte en tu proyecto!
