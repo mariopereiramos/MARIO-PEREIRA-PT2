@@ -2,7 +2,7 @@
 
 1. creamos la maquina virtual para pone el owncloud
 
-<img src="/fotos/primera parte/1.png"alt="1">
+<img src="/fotos/primera parte/1.png"alt="1"> ![Mi Foto](img/foto.jpg)
 
 2. Actualizar el sistema: Se actualizan las listas de paquetes disponibles y se actualizan todos los paquetes del sistema a las versiones más recientes.
 
