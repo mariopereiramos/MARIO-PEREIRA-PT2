@@ -17,13 +17,13 @@ Configurar la aplicación web
     Nombre de la base de datos: bbdd
     Dominio: localhost
 
-<img src="/fotos/tercera parte/28.png"alt="28">
+![28](28.png)
 
 una vez echo ya podras entrar a owncloud pero pedida que inicies sesion
 
-<img src="/fotos/tercera parte/26.png"alt="26">
+![26](26.png)
 
-<img src="/fotos/tercera parte/29.png"alt="29">
+![29](29.png)
 
 # parte 3 configuracion
 
@@ -36,19 +36,19 @@ La demostración del funcionamiento de ownCloud consiste en realizar pruebas bá
     
     Compartir contenidos: Compartir archivos o carpetas con otros usuarios para comprobar que se pueden compartir y acceder a ellos correctamente.
 
-<img src="/fotos/tercera parte/30.png"alt="30">
+![30](30.png)
 
-<img src="/fotos/tercera parte/31.png"alt="31">
+![31](31.png)
 
-<img src="/fotos/tercera parte/32.png"alt="32">
+![32](32.png)
 
-<img src="/fotos/tercera parte/33.png"alt="33">
+![33](33.png)
 
-<img src="/fotos/tercera parte/34.png"alt="34">
+![34](34.png)
 
-<img src="/fotos/tercera parte/35.png"alt="35">
+![35](35.png)
 
-<img src="/fotos/tercera parte/36.png"alt="36">
+![36](36.png)
 
 Creación de usuarios
 La creación de usuarios consiste en crear varios usuarios con diferentes roles y permisos. En este caso, se deben crear al menos 3 usuarios con los siguientes roles:
@@ -59,13 +59,13 @@ La creación de usuarios consiste en crear varios usuarios con diferentes roles 
 
     Visualizador: Un usuario con permisos solo para visualizar contenidos, pero no para editar o gestionar.
 
-<img src="/fotos/tercera parte/37.png"alt="37">
+![37](37.png)
 
-<img src="/fotos/tercera parte/38.png"alt="38">
+![38](38.png)
 
-<img src="/fotos/tercera parte/39.png"alt="39">
+![39](39.png)
 
-<img src="/fotos/tercera parte/40.png"alt="40">
+![40](40.png)
 
 Asignación de roles y permisos
 La asignación de roles y permisos consiste en configurar permisos específicos para cada rol. Esto significa que cada rol tendrá permisos diferentes para acceder a los archivos y carpetas de ownCloud. Por ejemplo:
@@ -76,10 +76,10 @@ La asignación de roles y permisos consiste en configurar permisos específicos 
 
     El visualizador tendrá permisos solo para visualizar archivos y carpetas específicas.
 
-<img src="/fotos/tercera parte/41.png"alt="41">
+![41](41.png)
 
-<img src="/fotos/tercera parte/42.png"alt="42">
+![42](42.png)
 
-<img src="/fotos/tercera parte/43.png"alt="43">
+![43](43.png)
 
 Esperamos que este manual te haya sido de ayuda para configurar y utilizar ownCloud de manera efectiva. ¡Buena suerte en tu proyecto!
